@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Cover{
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("img/Cover.jpg");
+    background-position: center;
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+
+.round{
+   
+    border-radius: 5px;
+}
+.header{
+    height: 75vh;
+}
+
+
+
+.h1font{
+    font-weight: bolder;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.p1font{
+   
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Dnone{
+    text-decoration: none;
+    color: aliceblue;
+}
